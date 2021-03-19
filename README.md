@@ -8,8 +8,10 @@
 ~~~
 npm ci && npm start
 ~~~
-
-
+### Em seguida, dar um ctrl + click nessa URL no terminal ou acessar manualmente:
+~~~
+http://127.0.0.1:8080
+~~~
 ## Creditos
 
 - Layout obtido de [Ettrics' CodePen](https://codepen.io/ettrics/pen/KpzzQZ)
